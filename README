@@ -1,0 +1,18 @@
+Put this folder under lua-5.1.4 source code, and rename the folder name to prj,
+and will be compiled by VS2008.
+
+It will look like:
+
+	lua-5.1.4
+		doc
+		etc
+		prj [ This Project]
+			lua
+			luaexe
+			release
+			switcher
+			lua.sln
+		src
+		test
+
+Have fun!

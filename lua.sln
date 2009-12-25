@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lua", "lua\lua.vcproj", "{D2042847-3C08-4E8A-A431-BED0428147C5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "switcher", "switcher\switcher.vcproj", "{A7F5348D-3A9F-4BCD-90D0-65AA1C299B53}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "luaexe", "luaexe\luaexe.vcproj", "{18FB38A5-B682-4C32-AEAE-160287109AD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2042847-3C08-4E8A-A431-BED0428147C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2042847-3C08-4E8A-A431-BED0428147C5}.Debug|Win32.Build.0 = Debug|Win32
+		{D2042847-3C08-4E8A-A431-BED0428147C5}.Release|Win32.ActiveCfg = Release|Win32
+		{D2042847-3C08-4E8A-A431-BED0428147C5}.Release|Win32.Build.0 = Release|Win32
+		{A7F5348D-3A9F-4BCD-90D0-65AA1C299B53}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A7F5348D-3A9F-4BCD-90D0-65AA1C299B53}.Debug|Win32.Build.0 = Debug|Win32
+		{A7F5348D-3A9F-4BCD-90D0-65AA1C299B53}.Release|Win32.ActiveCfg = Release|Win32
+		{A7F5348D-3A9F-4BCD-90D0-65AA1C299B53}.Release|Win32.Build.0 = Release|Win32
+		{18FB38A5-B682-4C32-AEAE-160287109AD8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{18FB38A5-B682-4C32-AEAE-160287109AD8}.Debug|Win32.Build.0 = Debug|Win32
+		{18FB38A5-B682-4C32-AEAE-160287109AD8}.Release|Win32.ActiveCfg = Release|Win32
+		{18FB38A5-B682-4C32-AEAE-160287109AD8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
